@@ -1,0 +1,5 @@
+C:\Users\Bleu\Documents\Dev\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\HuntTheWumpus.exe
+C:\Users\Bleu\Documents\Dev\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\HuntTheWumpus.pdb
+C:\Users\Bleu\Documents\Dev\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bleu\Documents\Dev\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\obj\x86\Debug\HuntTheWumpus.exe
+C:\Users\Bleu\Documents\Dev\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\obj\x86\Debug\HuntTheWumpus.pdb
